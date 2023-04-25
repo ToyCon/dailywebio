@@ -1,3 +1,3 @@
-# dailyWebIO
+NextJS 카피 프로젝트
 
-Web app project
+Coupang fresh 클론 코딩
